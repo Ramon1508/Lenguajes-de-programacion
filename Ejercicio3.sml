@@ -1,0 +1,1 @@
+let fun f x=let fun g y=x+y in g(2*x) end;
